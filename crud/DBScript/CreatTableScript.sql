@@ -1,0 +1,8 @@
+﻿
+CREATE TABLE Books (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Title NVARCHAR(MAX),
+    Author NVARCHAR(MAX),
+    PublicationDate DATETIME,
+    ISBN NVARCHAR(MAX)
+);
