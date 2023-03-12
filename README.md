@@ -1,4 +1,10 @@
-# React-CRUD-.NetCoreWebApi
+# React-CRUD-asp.NetCore Web Api Example
+simple and easy to understand for desing bootstrap used 
+functionality as 
+1.Create New Record
+2.Update existing record
+3.Shown the list of records
+4. Delete/Remove the record, before remove confirm dialog box to confirm and delete the record
 react crud Operation the react front and back end .net web API
 License 
 Feel Free to change the code accordingly 
