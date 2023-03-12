@@ -1,26 +1,22 @@
-# React-CRUD-asp.NetCore Web Api Example
-simple and easy to understand for desing bootstrap used 
-functionality as 
-1.Create New Record
-2.Update existing record
-3.Shown the list of records
-4. Delete/Remove the record, before remove confirm dialog box to confirm and delete the record
-react crud Operation the react front and back end .net web API
-License 
-Feel Free to change the code accordingly 
+React-CRUD-asp.NetCore Web Api Example
+This is a simple and easy-to-understand example of a CRUD (Create, Read, Update, Delete) application built using React for the front-end and ASP.NET Core Web API for the back-end. Bootstrap is used for styling.
 
-steps to run the project
-steps
-1. Clone the project on you local computer/machine and unzip it
-2. create database name 'crud'(if you want other name use except suggesion)
-3. Create table to check DBScript and run it as it on sql server
-4.replace your connectionString in appsetting.json file check and your user Id and password of sql server
-5.run the web api project.
-6.Open react-crud folder project in vs code
-7.gp to package.json file and change proxy url with your web api url
-8.after change proxy url in package.json file to run the react project 
-  use command for run: npm run start
-  
- 9. if you getting any error to try to update you NPM (To doing delete Node_modeule and run command npm install) 
+The application provides the following functionality:
+i.Create a new record
+ii.Update an existing record
+iii.Show a list of records
+iv.Delete/remove a record. Before deleting, a confirmation dialog box is shown to confirm the deletion.
+****License*****
+Feel free to change the code according to your needs. 
+The project is released under an open-source license.
 
-
+Steps to Run the Project
+1.Clone the project to your local computer and unzip it.
+2.Create a database named 'crud' (or any other name of your choice).
+3.To create the necessary table, check the DBScript.sql file and run it on your SQL Server.
+4.Replace the connection string in the appsettings.json file with your own connection string, including your SQL Server user ID and password.
+5.Run the ASP.NET Core Web API project.
+6.Open the react-crud project folder in VS Code.
+7.Go to the package.json file and change the proxy URL to your ASP.NET Core Web API URL.
+8.After changing the proxy URL, run the React project using the command npm run start.
+9.If you encounter any errors, try updating your NPM version. To do this, delete the node_modules folder and run the command npm install.
