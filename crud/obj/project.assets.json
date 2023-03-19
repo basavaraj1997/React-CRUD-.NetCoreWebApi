@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RND\\CRUDAPI\\crud\\crud.csproj",
+      "projectUniqueName": "C:\\RND\\CRUDAPI\\basavaraj1997\\React-CRUD-.NetCoreWebApi\\crud\\crud.csproj",
       "projectName": "crud",
-      "projectPath": "C:\\RND\\CRUDAPI\\crud\\crud.csproj",
+      "projectPath": "C:\\RND\\CRUDAPI\\basavaraj1997\\React-CRUD-.NetCoreWebApi\\crud\\crud.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\RND\\CRUDAPI\\crud\\obj\\",
+      "outputPath": "C:\\RND\\CRUDAPI\\basavaraj1997\\React-CRUD-.NetCoreWebApi\\crud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
